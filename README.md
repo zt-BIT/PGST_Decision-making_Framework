@@ -12,7 +12,7 @@ We denote the driver-driven ego vehicle as a red rectangle and the corresponding
 
 * Turning Right  
 <p align="center">
-    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/RightTurn.gif" width="100"><br/>
+    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/RightTurn.gif" width="500"><br/>
     <em>highway-env Simulation Results.</em>
 </p>
 
