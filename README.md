@@ -12,23 +12,23 @@ We denote the driver-driven ego vehicle as a red rectangle and the corresponding
 
 * Turning Right  
 <p align="center">
-    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/RightTurn.gif" width="500"><br/>
-    <em>highway-env Simulation Results.</em>
+    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/RightTurn.gif" width="1000"><br/>
+    <em>Turning Right.</em>
 </p>
 
 <video src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/RightTurn.mp4.mp4" controls="controls" width="500" height="300"></video>
 
 * Going Straight 
 <p align="center">
-    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/GoStraight.gif"><br/>
-    <em>highway-env Simulation Results.</em>
+    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/GoStraight.gif" width="1000"><br/>
+    <em>Going Straight .</em>
 </p>
 <video src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/GoStraight.mp4" controls="controls" width="500" height="300"></video>
 
 * Turning Left
 <p align="center">
-    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/LeftTurn.gif"><br/>
-    <em>highway-env Simulation Results.</em>
+    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/LeftTurn.gif" width="1000"><br/>
+    <em>Turning Left.</em>
 </p>
 <video src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/LeftTurn.mp4" controls="controls" width="500" height="300"></video>
 
