@@ -12,7 +12,7 @@ We denote the driver-driven ego vehicle as a red rectangle and the corresponding
 
 * Turning Right  
 <p align="center">
-    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/RightTurn.gif" width="600" height="300"><br/>
+    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/RightTurn.gif" width="600"><br/>
     <em>Turning Right.</em>
 </p>
 
@@ -20,14 +20,14 @@ We denote the driver-driven ego vehicle as a red rectangle and the corresponding
 
 * Going Straight 
 <p align="center">
-    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/GoStraight.gif" width="600" height="300"><br/>
+    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/GoStraight.gif" width="600"><br/>
     <em>Going Straight .</em>
 </p>
 <video src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/GoStraight.mp4" controls="controls" width="500" height="300"></video>
 
 * Turning Left
 <p align="center">
-    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/LeftTurn.gif" width="600" height="300"><br/>
+    <img src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/LeftTurn.gif" width="600"><br/>
     <em>Turning Left.</em>
 </p>
 <video src="https://github.com/zt-BIT/PGST_Decision-making_Framework/blob/main/videos/LeftTurn.mp4" controls="controls" width="500" height="300"></video>
